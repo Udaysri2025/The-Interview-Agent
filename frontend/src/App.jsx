@@ -20,7 +20,7 @@ import {
 import "./App.css";
 
 
-const API = "http://localhost:8000";
+const API = "https://the-interview-agent-1-d3h6.onrender.com";
 
 
 function App() {
