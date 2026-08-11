@@ -680,6 +680,6 @@ https://github.com/Udaysri2025/The-Interview-Agent
 
 ## License
 
-This project is developed as an academic/engineering project by the team above.
+This project is developed as a hackathon project by the team above.
 
 Copyright © 2026 The Interview Agent Team.
