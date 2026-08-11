@@ -92,12 +92,12 @@ The Interview Agent aims to make the process:
                                            ▼
                               ┌──────────────────────┐
                               │ Interview Evaluation │
-                              │ Technical             │
-                              │ Reasoning             │
-                              │ Communication         │
-                              │ Strengths             │
-                              │ Improvements          │
-                              │ Recommended Topics    │
+                              │ Technical            │
+                              │ Reasoning            │
+                              │ Communication        │
+                              │ Strengths            │
+                              │ Improvements         │
+                              │ Recommended Topics   │
                               └──────────────────────┘
 ```
 
